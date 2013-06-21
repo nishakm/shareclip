@@ -2,7 +2,7 @@ import SimpleHTTPServer
 import SocketServer
 import os
 
-ROOT_DIR = "stuff"
+ROOT_DIR = ".shareclip"
 PORT = 9999
 
 handler = SimpleHTTPServer.SimpleHTTPRequestHandler
