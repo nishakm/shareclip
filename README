@@ -1,0 +1,10 @@
+shareclip - simple clipboard sharing using python
+this will basically dump your clipboard into a file
+that a client computer can read
+
+To make it work:
+1. You'll need Python 2.7 (I don't have it working for 3.0 and higher)
+2. Put this code anywhere on the two computers you want to exchange clipboard data with.
+3. Run the script on both the client and server computers
+
+I'm still trying to get it to work.
